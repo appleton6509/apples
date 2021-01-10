@@ -7,8 +7,11 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 - 📫 How to reach me: ...
-![Linkedin](https://github.com/appleton6509/appleton6509/blob/main/linkedin.png?raw=true)
-[Link to Google](https://www.google.com)
+<p>
+  <a href="https://www.linkedin.com/in/brian-appleton/"><img width="300" align='right' src="https://github.com/appleton6509/appleton6509/blob/main/linkedin.png?raw=true"></a>
+</p>
+![Linkedin]()
+[Link to Google]
 <!--
 **appleton6509/appleton6509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
