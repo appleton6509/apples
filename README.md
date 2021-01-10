@@ -22,8 +22,6 @@ No Activity tracked this Week
 React, Data Structures & Algorithms
 </p>
 
-<figure><embed src="https://wakatime.com/share/@dde0b3e2-f974-4635-bc49-837c6ceeecc7/645098d4-f491-4850-8cc0-6cd597f60f68.svg"></embed></figure>
-
 
 <!--
 **appleton6509/appleton6509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
