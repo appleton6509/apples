@@ -1,5 +1,4 @@
 <H1 align="center">Hey. I'm Brian. Thanks for dropping by!</H1>
-<hr>
 <H3 align="center">Im a bit busy right now but have a look around.</H3>
 <br/>
 
