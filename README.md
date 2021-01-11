@@ -2,7 +2,7 @@
 <H3 align="center">Im a bit busy right now but have a look around.</H3>
 <br/>
 
-- 🔭 I’m currently working on ...
+- 🔭 This week I'm currently working on ...
 <!--START_SECTION:waka-->
 ```text
 JSX          4 hrs 14 mins   █████████████████░░░░░░░░   67.41 % 
