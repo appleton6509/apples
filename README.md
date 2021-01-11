@@ -3,7 +3,8 @@
 <br/>
 
 - 🔭 I’m currently working on ...
-<img src="https://github.com/appleton6509/appleton6509/blob/main/images/stat.svg" alt="Wakatime Activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br/>
 
 - 📫 How to reach me: ...
