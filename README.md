@@ -23,7 +23,7 @@ CSS          1 hr 40 mins    ▓░░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning ...
 <p>
-React, Data Structures & Algorithms
+React, Caching, API's
 </p>
 
 
