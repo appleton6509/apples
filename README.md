@@ -23,7 +23,7 @@ JSON         1 hr 53 mins    █░░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning ...
 <p>
-React, Caching, API's
+React, Design Patterns, API's
 </p>
 
 
