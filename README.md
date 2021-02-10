@@ -23,7 +23,7 @@ JavaScript   2 hrs 7 mins    █▓░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning ...
 <p>
-React, Design Patterns, API's
+Java & Android 
 </p>
 
 
