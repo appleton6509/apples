@@ -23,8 +23,7 @@ JSON    56 mins         ▓░░░░░░░░░░░░░░░░░�
 
 - 🌱 I’m currently learning ...
 <p>
-Java<br/> 
-Vaadin<br/>
+WPF<br/> 
 Reading "Clean Code"<br/>
 </p>
 
