@@ -21,7 +21,7 @@ Image (png)   7 mins          ░░░░░░░░░░░░░░░░�
 </p>
 <br/>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying ...
 <p>
 WPF<br/> 
 Reading "Clean Code"<br/>
