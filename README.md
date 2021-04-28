@@ -5,8 +5,7 @@
 - 🔭 This week I'm currently working on ...
 <!--START_SECTION:waka-->
 ```text
-C#      10 mins         █████████████████░░░░░░░░   67.56 % 
-XAML    4 mins          ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br/>
