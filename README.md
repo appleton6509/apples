@@ -5,7 +5,7 @@
 - 🔭 This week I'm currently working on ...
 <!--START_SECTION:waka-->
 ```text
-JSX     2 mins          ██████████████████▒░░░░░░   73.49 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br/>
