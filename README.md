@@ -9,13 +9,6 @@
 </p>
 <br/>
 
-- 🌱 I’m currently studying ...
-<p>
-WPF<br/> 
-Reading "Clean Code"<br/>
-</p>
-
-
 <!--
 **appleton6509/appleton6509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
